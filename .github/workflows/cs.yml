@@ -28,7 +28,7 @@ jobs:
 
       - name: Compile Java Source
         run: |
-          cd AUApp/src
+          cd Test/src
           javac *.java
 
 
